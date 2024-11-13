@@ -5,8 +5,72 @@ https://www.qrz.com/db/6L5TNG
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 6L5TNG kanghan </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi I am kanghan</li>Ham call sign 6L5TNG</li></li>This is Daegu Dalseo<li>gu, South Korea</li>Grid<li>pm45gt</li>KDN<li>PØ7</li></li>Ham stack</li></li><li> RIG: FT2000 , FT101EE , ic706 , </li> x6100 .....</li></li><li> ANT: 22 meter apartment endfeed </li> antenna</li></li><li> License: Amateur Radio Operator </li> Class 2</li></li></li>My Stack</li></li><li> High school student</li></li><li> Coding is annoying</li></li><li> People who only use Apple</li></li></li><li> My favorite anime (light novel)</li> </li> / 俺の彼女と幼なじみが修羅場すぎる</li> </li> / ひぐらしのなく頃に</li> </li> / 中二病でも 恋がしたい！</li> </li> / 負けヒロインが多すぎる!</li> </li> </li>/ エンゲージ・キス</li> / リコリス・リコイル </li>/ がっこうぐらし!</li>/ クズの本懐 / 探偵はもう / 死んでいる。</li></li></li></li></li><li>  My favorite games</li>Genshin Impact , Honkai: Star Rail , ETERNAL RETURN , Blue Archive</li></li><li> My favorite character</li></li>Genshin Impact <li> Nahida</li>Eternal Return <li> Abigail</li>俺の彼女と幼なじみが修羅場すぎる <li> 夏川真涼</li>Blue Archive <li> Tendou Aris</li></li><li> I enjoy watching VTuber</li>しぐれうい , Neuro-sama </li></li></li></li> </div> 
-    </div>
+    This is Daegu Dalseo-gu, South Korea
+Grid-pm45gt
+KDN-PØ7
+
+Ham stack
+
+- RIG: FT2000 , FT101EE , ic706 , 
+ x6100 .....
+
+- ANT: 22 meter apartment endfeed 
+ antenna
+
+- License: Amateur Radio Operator 
+ Class 2
+
+
+My Stack
+
+- High school student
+
+- Coding is annoying
+
+- People who only use Apple
+
+
+- My favorite anime (light novel)
+ 
+ : 俺の彼女と幼なじみが修羅場すぎる
+ 
+ : ひぐらしのなく頃に
+ 
+ : 中二病でも 恋がしたい！
+ 
+ : 負けヒロインが多すぎる!
+ 
+:  エンゲージ・キス
+
+:  リコリス・リコイル 
+
+:がっこうぐらし!
+
+: クズの本懐 
+
+: 探偵はもう 
+
+: 死んでいる。
+
+
+
+
+-  My favorite games
+ Genshin Impact 
+ Honkai: Star Rail 
+ ETERNAL RETURN 
+ Blue Archive
+
+- My favorite character
+
+Genshin Impact - Nahida
+Eternal Return - Abigail
+俺の彼女と幼なじみが修羅場すぎる - 夏川真涼
+Blue Archive - Tendou Aris
+
+- I enjoy watching VTuber
+ しぐれうい , Neuro-sama 
+
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
