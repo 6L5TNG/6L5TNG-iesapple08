@@ -58,7 +58,7 @@ My Stack
 -  My favorite games
 
  Genshin Impact 
- Honkai: Star Rail 
+ Honkai Star Rail 
  ETERNAL RETURN 
  Blue Archive
 
